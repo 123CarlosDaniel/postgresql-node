@@ -1,0 +1,7 @@
+.grid-headers {
+  padding-inline: 1.5rem;
+  padding-block: 1rem;
+  border-radius: 0.75rem;
+  background-color:   #1F1616;
+  display: block;
+}
